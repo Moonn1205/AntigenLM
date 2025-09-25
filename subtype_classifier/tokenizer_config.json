@@ -1,0 +1,13 @@
+{
+  "additional_special_tokens": [
+    "<HA>",
+    "<NA>"
+  ],
+  "clean_up_tokenization_spaces": true,
+  "eos_token": "<eos>",
+  "model_max_length": 1000000000000000019884624838656,
+  "pad_token": "<pad>",
+  "sep_token": "<sep>",
+  "tokenizer_class": "InfluTokenizer",
+  "unk_token": "N"
+}
