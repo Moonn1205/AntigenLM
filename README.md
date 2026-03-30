@@ -4,8 +4,7 @@
     <a href="">Yue Pei</a>,
     <a href="">Xuebin Chi</a>,
     <a href=""> Yu Kang</a>,
-   
-    <br>
+
     <b>ICLR 2026</b>
 </p>
 
