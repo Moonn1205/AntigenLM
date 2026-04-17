@@ -1,4 +1,4 @@
-<h3 align="center"><strong>AntigenLM: Structure-Aware DNA Language Modeling for Influenza</strong></h3>
+<h3 align="center"><strong>AntigenLM : Structure-Aware DNA Language Modeling for Influenza</strong></h3>
 
 <p align="center">
     <a href="">Yue Pei</a>,
