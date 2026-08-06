@@ -1,0 +1,18 @@
+# Local outputs / caches
+out/
+out_test/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs / env debug dumps
+*.log
+conda_trace.log
+
+# Editor / build junk
+.cache/
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/

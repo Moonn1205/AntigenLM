@@ -1,0 +1,18 @@
+name: antigenlm
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.8
+  - pytorch=1.13.1
+  - pytorch-cuda=11.7
+  - mkl=2023.2.0
+  - pip
+  - pip:
+      - transformers==4.29.2
+      - tokenizers==0.13.3
+      - huggingface_hub>=0.16,<1.0
